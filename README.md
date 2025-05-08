@@ -1,8 +1,7 @@
 # rag_example
 rag example with yugabyte
 
-see blog at https://www.kylehailey.com/post/rag-with-yugabyte
-
+see blog at https://www.yugabyte.com/blog/using-yugabytedb-to-power-a-rag-pipeline/
 
 Create a Yugabyte database here: https://cloud.yugabyte.com/
 
